@@ -12,7 +12,7 @@ export const Button = ({
   return (
     <button
       style={{
-        backgroundColor: primary ? "red" : "blue",
+        backgroundColor: primary ? "red" : "green",
         fontSize: size === "large" ? "24px" : "14px",
       }}
     >
